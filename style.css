@@ -1,0 +1,57 @@
+.header-content{
+	display: flex;
+	justify-content: space-around;
+	font-family: Montserrat;
+	color: #66EEFF;
+}
+.left img{
+	width: 140px;
+}
+header .right{
+	margin-top: 15px;
+}
+#menu-content{
+	display: flex;
+	justify-content: space-around;
+	font-family: Montserrat;
+}
+#menu-content a{
+	text-decoration: none;
+	color: black;
+}
+#h1ogorode, #h1tradicii, #h1prois{
+	text-align: center;
+	font-family: Montserrat;
+	margin-top: 55px;
+	color: #4eff37;
+}
+#ogorode{
+	width: 800px;
+	text-align: center;
+	margin-left: 350px;
+	font-size: 20px;
+}
+span{
+	font-family: cursive;
+	font-weight: bold;
+}
+.tradicii, .prois{
+	width: 800px;
+	text-align: center;
+	margin-left: 350px;
+	font-size: 20px;
+}
+.salavat{
+	text-align: center;
+}
+.salavat img{
+	border-radius: 30px;
+	box-shadow: 0 0 6px 3px;
+}
+.imgoriginal{
+	text-align: center;
+}
+.imgoriginal img{
+	border-radius: 30px;
+	box-shadow: 0 0 6px 3px;
+}
